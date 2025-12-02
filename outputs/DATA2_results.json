@@ -1,0 +1,2556 @@
+{
+  "top5_days": [
+    {
+      "date_str": "2024-09-12",
+      "daily_revenue": 3912.39
+    },
+    {
+      "date_str": "2024-11-15",
+      "daily_revenue": 3638.9700000000003
+    },
+    {
+      "date_str": "2024-11-21",
+      "daily_revenue": 3540.2
+    },
+    {
+      "date_str": "2025-01-20",
+      "daily_revenue": 3480.36
+    },
+    {
+      "date_str": "2024-12-25",
+      "daily_revenue": 3449.11
+    }
+  ],
+  "num_real_users": 2663,
+  "num_author_sets": 293,
+  "most_popular_authors": [
+    "hershel treutel",
+    "miss modesto denesik",
+    "sen. trula bosco"
+  ],
+  "best_buyers_uid_arrays": [
+    [
+      "53583",
+      "55058",
+      "55420"
+    ]
+  ],
+  "daily_revenue_series": [
+    {
+      "date_str": "2023-12-24",
+      "daily_revenue": 51.9
+    },
+    {
+      "date_str": "2023-12-26",
+      "daily_revenue": 19.5
+    },
+    {
+      "date_str": "2024-01-07",
+      "daily_revenue": 288.0
+    },
+    {
+      "date_str": "2024-01-08",
+      "daily_revenue": 308.75
+    },
+    {
+      "date_str": "2024-01-09",
+      "daily_revenue": 24.5
+    },
+    {
+      "date_str": "2024-01-10",
+      "daily_revenue": 56.92999999999999
+    },
+    {
+      "date_str": "2024-01-12",
+      "daily_revenue": 380.19
+    },
+    {
+      "date_str": "2024-01-22",
+      "daily_revenue": 65.99
+    },
+    {
+      "date_str": "2024-01-23",
+      "daily_revenue": 244.5
+    },
+    {
+      "date_str": "2024-01-25",
+      "daily_revenue": 123.75
+    },
+    {
+      "date_str": "2024-01-26",
+      "daily_revenue": 68.4
+    },
+    {
+      "date_str": "2024-01-27",
+      "daily_revenue": 18.0
+    },
+    {
+      "date_str": "2024-01-29",
+      "daily_revenue": 77.56
+    },
+    {
+      "date_str": "2024-01-31",
+      "daily_revenue": 65.25
+    },
+    {
+      "date_str": "2024-02-01",
+      "daily_revenue": 73.99
+    },
+    {
+      "date_str": "2024-02-02",
+      "daily_revenue": 99.97999999999999
+    },
+    {
+      "date_str": "2024-02-04",
+      "daily_revenue": 178.5
+    },
+    {
+      "date_str": "2024-02-06",
+      "daily_revenue": 178.0
+    },
+    {
+      "date_str": "2024-02-07",
+      "daily_revenue": 79.25
+    },
+    {
+      "date_str": "2024-02-09",
+      "daily_revenue": 80.75
+    },
+    {
+      "date_str": "2024-02-11",
+      "daily_revenue": 60.0
+    },
+    {
+      "date_str": "2024-02-12",
+      "daily_revenue": 242.45999999999998
+    },
+    {
+      "date_str": "2024-02-13",
+      "daily_revenue": 70.5
+    },
+    {
+      "date_str": "2024-02-15",
+      "daily_revenue": 319.5
+    },
+    {
+      "date_str": "2024-02-17",
+      "daily_revenue": 114.99000000000001
+    },
+    {
+      "date_str": "2024-02-18",
+      "daily_revenue": 58.5
+    },
+    {
+      "date_str": "2024-02-19",
+      "daily_revenue": 114.4
+    },
+    {
+      "date_str": "2024-02-20",
+      "daily_revenue": 375.0
+    },
+    {
+      "date_str": "2024-02-21",
+      "daily_revenue": 142.4
+    },
+    {
+      "date_str": "2024-02-22",
+      "daily_revenue": 86.0
+    },
+    {
+      "date_str": "2024-02-23",
+      "daily_revenue": 214.0
+    },
+    {
+      "date_str": "2024-02-24",
+      "daily_revenue": 170.48000000000002
+    },
+    {
+      "date_str": "2024-02-25",
+      "daily_revenue": 277.2
+    },
+    {
+      "date_str": "2024-02-26",
+      "daily_revenue": 213.75
+    },
+    {
+      "date_str": "2024-02-27",
+      "daily_revenue": 126.5
+    },
+    {
+      "date_str": "2024-02-29",
+      "daily_revenue": 69.25
+    },
+    {
+      "date_str": "2024-03-01",
+      "daily_revenue": 215.48
+    },
+    {
+      "date_str": "2024-03-02",
+      "daily_revenue": 32.0
+    },
+    {
+      "date_str": "2024-03-04",
+      "daily_revenue": 70.25
+    },
+    {
+      "date_str": "2024-03-05",
+      "daily_revenue": 32.5
+    },
+    {
+      "date_str": "2024-03-06",
+      "daily_revenue": 560.99
+    },
+    {
+      "date_str": "2024-03-07",
+      "daily_revenue": 456.49
+    },
+    {
+      "date_str": "2024-03-08",
+      "daily_revenue": 457.72
+    },
+    {
+      "date_str": "2024-03-10",
+      "daily_revenue": 363.25
+    },
+    {
+      "date_str": "2024-03-11",
+      "daily_revenue": 249.0
+    },
+    {
+      "date_str": "2024-03-12",
+      "daily_revenue": 388.5
+    },
+    {
+      "date_str": "2024-03-13",
+      "daily_revenue": 228.98000000000002
+    },
+    {
+      "date_str": "2024-03-14",
+      "daily_revenue": 278.01
+    },
+    {
+      "date_str": "2024-03-15",
+      "daily_revenue": 229.55
+    },
+    {
+      "date_str": "2024-03-16",
+      "daily_revenue": 420.25
+    },
+    {
+      "date_str": "2024-03-17",
+      "daily_revenue": 162.73000000000002
+    },
+    {
+      "date_str": "2024-03-18",
+      "daily_revenue": 426.58000000000004
+    },
+    {
+      "date_str": "2024-03-19",
+      "daily_revenue": 49.2
+    },
+    {
+      "date_str": "2024-03-20",
+      "daily_revenue": 387.96999999999997
+    },
+    {
+      "date_str": "2024-03-21",
+      "daily_revenue": 126.25
+    },
+    {
+      "date_str": "2024-03-22",
+      "daily_revenue": 366.25
+    },
+    {
+      "date_str": "2024-03-23",
+      "daily_revenue": 51.25
+    },
+    {
+      "date_str": "2024-03-24",
+      "daily_revenue": 233.39
+    },
+    {
+      "date_str": "2024-03-25",
+      "daily_revenue": 235.0
+    },
+    {
+      "date_str": "2024-03-26",
+      "daily_revenue": 143.0
+    },
+    {
+      "date_str": "2024-03-27",
+      "daily_revenue": 125.4
+    },
+    {
+      "date_str": "2024-03-28",
+      "daily_revenue": 88.48
+    },
+    {
+      "date_str": "2024-03-29",
+      "daily_revenue": 213.44
+    },
+    {
+      "date_str": "2024-03-30",
+      "daily_revenue": 135.3
+    },
+    {
+      "date_str": "2024-03-31",
+      "daily_revenue": 325.25
+    },
+    {
+      "date_str": "2024-04-01",
+      "daily_revenue": 55.5
+    },
+    {
+      "date_str": "2024-04-02",
+      "daily_revenue": 443.73
+    },
+    {
+      "date_str": "2024-04-03",
+      "daily_revenue": 238.5
+    },
+    {
+      "date_str": "2024-04-04",
+      "daily_revenue": 364.82
+    },
+    {
+      "date_str": "2024-04-05",
+      "daily_revenue": 409.15
+    },
+    {
+      "date_str": "2024-04-06",
+      "daily_revenue": 533.1899999999999
+    },
+    {
+      "date_str": "2024-04-07",
+      "daily_revenue": 267.51
+    },
+    {
+      "date_str": "2024-04-08",
+      "daily_revenue": 427.0
+    },
+    {
+      "date_str": "2024-04-09",
+      "daily_revenue": 497.75
+    },
+    {
+      "date_str": "2024-04-10",
+      "daily_revenue": 666.14
+    },
+    {
+      "date_str": "2024-04-11",
+      "daily_revenue": 915.4
+    },
+    {
+      "date_str": "2024-04-12",
+      "daily_revenue": 520.4200000000001
+    },
+    {
+      "date_str": "2024-04-13",
+      "daily_revenue": 321.92
+    },
+    {
+      "date_str": "2024-04-14",
+      "daily_revenue": 209.05
+    },
+    {
+      "date_str": "2024-04-15",
+      "daily_revenue": 259.99
+    },
+    {
+      "date_str": "2024-04-16",
+      "daily_revenue": 349.0
+    },
+    {
+      "date_str": "2024-04-17",
+      "daily_revenue": 549.45
+    },
+    {
+      "date_str": "2024-04-18",
+      "daily_revenue": 554.7
+    },
+    {
+      "date_str": "2024-04-19",
+      "daily_revenue": 569.95
+    },
+    {
+      "date_str": "2024-04-20",
+      "daily_revenue": 910.44
+    },
+    {
+      "date_str": "2024-04-21",
+      "daily_revenue": 367.15
+    },
+    {
+      "date_str": "2024-04-22",
+      "daily_revenue": 283.95
+    },
+    {
+      "date_str": "2024-04-23",
+      "daily_revenue": 300.96000000000004
+    },
+    {
+      "date_str": "2024-04-24",
+      "daily_revenue": 1607.98
+    },
+    {
+      "date_str": "2024-04-25",
+      "daily_revenue": 571.5
+    },
+    {
+      "date_str": "2024-04-26",
+      "daily_revenue": 236.85
+    },
+    {
+      "date_str": "2024-04-27",
+      "daily_revenue": 1039.05
+    },
+    {
+      "date_str": "2024-04-28",
+      "daily_revenue": 990.0799999999999
+    },
+    {
+      "date_str": "2024-04-29",
+      "daily_revenue": 393.24
+    },
+    {
+      "date_str": "2024-04-30",
+      "daily_revenue": 767.58
+    },
+    {
+      "date_str": "2024-05-01",
+      "daily_revenue": 1363.5
+    },
+    {
+      "date_str": "2024-05-02",
+      "daily_revenue": 308.31
+    },
+    {
+      "date_str": "2024-05-03",
+      "daily_revenue": 243.99
+    },
+    {
+      "date_str": "2024-05-04",
+      "daily_revenue": 1265.73
+    },
+    {
+      "date_str": "2024-05-05",
+      "daily_revenue": 752.71
+    },
+    {
+      "date_str": "2024-05-06",
+      "daily_revenue": 483.79
+    },
+    {
+      "date_str": "2024-05-07",
+      "daily_revenue": 117.4
+    },
+    {
+      "date_str": "2024-05-08",
+      "daily_revenue": 611.05
+    },
+    {
+      "date_str": "2024-05-09",
+      "daily_revenue": 343.22
+    },
+    {
+      "date_str": "2024-05-10",
+      "daily_revenue": 741.64
+    },
+    {
+      "date_str": "2024-05-11",
+      "daily_revenue": 620.54
+    },
+    {
+      "date_str": "2024-05-12",
+      "daily_revenue": 932.37
+    },
+    {
+      "date_str": "2024-05-13",
+      "daily_revenue": 365.99
+    },
+    {
+      "date_str": "2024-05-14",
+      "daily_revenue": 333.5
+    },
+    {
+      "date_str": "2024-05-15",
+      "daily_revenue": 677.5899999999999
+    },
+    {
+      "date_str": "2024-05-16",
+      "daily_revenue": 356.62
+    },
+    {
+      "date_str": "2024-05-17",
+      "daily_revenue": 630.84
+    },
+    {
+      "date_str": "2024-05-18",
+      "daily_revenue": 755.42
+    },
+    {
+      "date_str": "2024-05-19",
+      "daily_revenue": 862.78
+    },
+    {
+      "date_str": "2024-05-20",
+      "daily_revenue": 788.49
+    },
+    {
+      "date_str": "2024-05-21",
+      "daily_revenue": 610.51
+    },
+    {
+      "date_str": "2024-05-22",
+      "daily_revenue": 891.33
+    },
+    {
+      "date_str": "2024-05-23",
+      "daily_revenue": 230.39
+    },
+    {
+      "date_str": "2024-05-24",
+      "daily_revenue": 495.35
+    },
+    {
+      "date_str": "2024-05-25",
+      "daily_revenue": 641.25
+    },
+    {
+      "date_str": "2024-05-26",
+      "daily_revenue": 330.22
+    },
+    {
+      "date_str": "2024-05-27",
+      "daily_revenue": 630.69
+    },
+    {
+      "date_str": "2024-05-28",
+      "daily_revenue": 1297.23
+    },
+    {
+      "date_str": "2024-05-29",
+      "daily_revenue": 921.34
+    },
+    {
+      "date_str": "2024-05-30",
+      "daily_revenue": 661.87
+    },
+    {
+      "date_str": "2024-05-31",
+      "daily_revenue": 757.98
+    },
+    {
+      "date_str": "2024-06-01",
+      "daily_revenue": 458.0
+    },
+    {
+      "date_str": "2024-06-02",
+      "daily_revenue": 823.77
+    },
+    {
+      "date_str": "2024-06-03",
+      "daily_revenue": 637.36
+    },
+    {
+      "date_str": "2024-06-04",
+      "daily_revenue": 632.52
+    },
+    {
+      "date_str": "2024-06-05",
+      "daily_revenue": 1477.27
+    },
+    {
+      "date_str": "2024-06-06",
+      "daily_revenue": 722.78
+    },
+    {
+      "date_str": "2024-06-07",
+      "daily_revenue": 569.98
+    },
+    {
+      "date_str": "2024-06-08",
+      "daily_revenue": 776.22
+    },
+    {
+      "date_str": "2024-06-09",
+      "daily_revenue": 575.22
+    },
+    {
+      "date_str": "2024-06-10",
+      "daily_revenue": 1031.15
+    },
+    {
+      "date_str": "2024-06-11",
+      "daily_revenue": 1352.6399999999999
+    },
+    {
+      "date_str": "2024-06-12",
+      "daily_revenue": 1107.36
+    },
+    {
+      "date_str": "2024-06-13",
+      "daily_revenue": 976.8100000000001
+    },
+    {
+      "date_str": "2024-06-14",
+      "daily_revenue": 825.45
+    },
+    {
+      "date_str": "2024-06-15",
+      "daily_revenue": 713.48
+    },
+    {
+      "date_str": "2024-06-16",
+      "daily_revenue": 1037.94
+    },
+    {
+      "date_str": "2024-06-17",
+      "daily_revenue": 993.0
+    },
+    {
+      "date_str": "2024-06-18",
+      "daily_revenue": 1040.15
+    },
+    {
+      "date_str": "2024-06-19",
+      "daily_revenue": 1191.35
+    },
+    {
+      "date_str": "2024-06-20",
+      "daily_revenue": 783.23
+    },
+    {
+      "date_str": "2024-06-21",
+      "daily_revenue": 1249.31
+    },
+    {
+      "date_str": "2024-06-22",
+      "daily_revenue": 713.15
+    },
+    {
+      "date_str": "2024-06-23",
+      "daily_revenue": 876.25
+    },
+    {
+      "date_str": "2024-06-24",
+      "daily_revenue": 1419.89
+    },
+    {
+      "date_str": "2024-06-25",
+      "daily_revenue": 563.17
+    },
+    {
+      "date_str": "2024-06-26",
+      "daily_revenue": 881.23
+    },
+    {
+      "date_str": "2024-06-27",
+      "daily_revenue": 870.05
+    },
+    {
+      "date_str": "2024-06-28",
+      "daily_revenue": 508.76
+    },
+    {
+      "date_str": "2024-06-29",
+      "daily_revenue": 1263.99
+    },
+    {
+      "date_str": "2024-06-30",
+      "daily_revenue": 1210.83
+    },
+    {
+      "date_str": "2024-07-01",
+      "daily_revenue": 1271.98
+    },
+    {
+      "date_str": "2024-07-02",
+      "daily_revenue": 1039.26
+    },
+    {
+      "date_str": "2024-07-03",
+      "daily_revenue": 1229.94
+    },
+    {
+      "date_str": "2024-07-04",
+      "daily_revenue": 932.59
+    },
+    {
+      "date_str": "2024-07-05",
+      "daily_revenue": 1103.2
+    },
+    {
+      "date_str": "2024-07-06",
+      "daily_revenue": 833.12
+    },
+    {
+      "date_str": "2024-07-07",
+      "daily_revenue": 877.18
+    },
+    {
+      "date_str": "2024-07-08",
+      "daily_revenue": 955.28
+    },
+    {
+      "date_str": "2024-07-09",
+      "daily_revenue": 1465.79
+    },
+    {
+      "date_str": "2024-07-10",
+      "daily_revenue": 1085.45
+    },
+    {
+      "date_str": "2024-07-11",
+      "daily_revenue": 1023.27
+    },
+    {
+      "date_str": "2024-07-12",
+      "daily_revenue": 1059.97
+    },
+    {
+      "date_str": "2024-07-13",
+      "daily_revenue": 1799.45
+    },
+    {
+      "date_str": "2024-07-14",
+      "daily_revenue": 928.72
+    },
+    {
+      "date_str": "2024-07-15",
+      "daily_revenue": 818.12
+    },
+    {
+      "date_str": "2024-07-16",
+      "daily_revenue": 1109.74
+    },
+    {
+      "date_str": "2024-07-17",
+      "daily_revenue": 1109.22
+    },
+    {
+      "date_str": "2024-07-18",
+      "daily_revenue": 1714.48
+    },
+    {
+      "date_str": "2024-07-19",
+      "daily_revenue": 1169.18
+    },
+    {
+      "date_str": "2024-07-20",
+      "daily_revenue": 975.03
+    },
+    {
+      "date_str": "2024-07-21",
+      "daily_revenue": 1728.6399999999999
+    },
+    {
+      "date_str": "2024-07-22",
+      "daily_revenue": 1948.6399999999999
+    },
+    {
+      "date_str": "2024-07-23",
+      "daily_revenue": 1227.48
+    },
+    {
+      "date_str": "2024-07-24",
+      "daily_revenue": 1259.47
+    },
+    {
+      "date_str": "2024-07-25",
+      "daily_revenue": 1125.82
+    },
+    {
+      "date_str": "2024-07-26",
+      "daily_revenue": 971.69
+    },
+    {
+      "date_str": "2024-07-27",
+      "daily_revenue": 922.54
+    },
+    {
+      "date_str": "2024-07-28",
+      "daily_revenue": 1754.92
+    },
+    {
+      "date_str": "2024-07-29",
+      "daily_revenue": 1349.72
+    },
+    {
+      "date_str": "2024-07-30",
+      "daily_revenue": 1674.8799999999999
+    },
+    {
+      "date_str": "2024-07-31",
+      "daily_revenue": 1368.83
+    },
+    {
+      "date_str": "2024-08-01",
+      "daily_revenue": 1572.47
+    },
+    {
+      "date_str": "2024-08-02",
+      "daily_revenue": 1047.28
+    },
+    {
+      "date_str": "2024-08-03",
+      "daily_revenue": 1815.78
+    },
+    {
+      "date_str": "2024-08-04",
+      "daily_revenue": 1497.92
+    },
+    {
+      "date_str": "2024-08-05",
+      "daily_revenue": 1908.14
+    },
+    {
+      "date_str": "2024-08-06",
+      "daily_revenue": 1554.71
+    },
+    {
+      "date_str": "2024-08-07",
+      "daily_revenue": 1488.49
+    },
+    {
+      "date_str": "2024-08-08",
+      "daily_revenue": 1153.83
+    },
+    {
+      "date_str": "2024-08-09",
+      "daily_revenue": 1882.01
+    },
+    {
+      "date_str": "2024-08-10",
+      "daily_revenue": 1858.0
+    },
+    {
+      "date_str": "2024-08-11",
+      "daily_revenue": 1285.42
+    },
+    {
+      "date_str": "2024-08-12",
+      "daily_revenue": 2682.32
+    },
+    {
+      "date_str": "2024-08-13",
+      "daily_revenue": 1511.65
+    },
+    {
+      "date_str": "2024-08-14",
+      "daily_revenue": 983.1
+    },
+    {
+      "date_str": "2024-08-15",
+      "daily_revenue": 1370.8799999999999
+    },
+    {
+      "date_str": "2024-08-16",
+      "daily_revenue": 1378.85
+    },
+    {
+      "date_str": "2024-08-17",
+      "daily_revenue": 1532.72
+    },
+    {
+      "date_str": "2024-08-18",
+      "daily_revenue": 1935.99
+    },
+    {
+      "date_str": "2024-08-19",
+      "daily_revenue": 1325.73
+    },
+    {
+      "date_str": "2024-08-20",
+      "daily_revenue": 1224.25
+    },
+    {
+      "date_str": "2024-08-21",
+      "daily_revenue": 1212.98
+    },
+    {
+      "date_str": "2024-08-22",
+      "daily_revenue": 1705.13
+    },
+    {
+      "date_str": "2024-08-23",
+      "daily_revenue": 1420.92
+    },
+    {
+      "date_str": "2024-08-24",
+      "daily_revenue": 1764.02
+    },
+    {
+      "date_str": "2024-08-25",
+      "daily_revenue": 1429.41
+    },
+    {
+      "date_str": "2024-08-26",
+      "daily_revenue": 1169.1
+    },
+    {
+      "date_str": "2024-08-27",
+      "daily_revenue": 1348.53
+    },
+    {
+      "date_str": "2024-08-28",
+      "daily_revenue": 1322.17
+    },
+    {
+      "date_str": "2024-08-29",
+      "daily_revenue": 1964.84
+    },
+    {
+      "date_str": "2024-08-30",
+      "daily_revenue": 2556.8
+    },
+    {
+      "date_str": "2024-08-31",
+      "daily_revenue": 1558.45
+    },
+    {
+      "date_str": "2024-09-01",
+      "daily_revenue": 1361.45
+    },
+    {
+      "date_str": "2024-09-02",
+      "daily_revenue": 1357.29
+    },
+    {
+      "date_str": "2024-09-03",
+      "daily_revenue": 1405.45
+    },
+    {
+      "date_str": "2024-09-04",
+      "daily_revenue": 1868.4
+    },
+    {
+      "date_str": "2024-09-05",
+      "daily_revenue": 2262.12
+    },
+    {
+      "date_str": "2024-09-06",
+      "daily_revenue": 1899.3799999999999
+    },
+    {
+      "date_str": "2024-09-07",
+      "daily_revenue": 1468.6
+    },
+    {
+      "date_str": "2024-09-08",
+      "daily_revenue": 1776.18
+    },
+    {
+      "date_str": "2024-09-09",
+      "daily_revenue": 1913.77
+    },
+    {
+      "date_str": "2024-09-10",
+      "daily_revenue": 1550.71
+    },
+    {
+      "date_str": "2024-09-11",
+      "daily_revenue": 2202.55
+    },
+    {
+      "date_str": "2024-09-12",
+      "daily_revenue": 3912.39
+    },
+    {
+      "date_str": "2024-09-13",
+      "daily_revenue": 1943.39
+    },
+    {
+      "date_str": "2024-09-14",
+      "daily_revenue": 1928.03
+    },
+    {
+      "date_str": "2024-09-15",
+      "daily_revenue": 2108.67
+    },
+    {
+      "date_str": "2024-09-16",
+      "daily_revenue": 2354.76
+    },
+    {
+      "date_str": "2024-09-17",
+      "daily_revenue": 1251.49
+    },
+    {
+      "date_str": "2024-09-18",
+      "daily_revenue": 2441.92
+    },
+    {
+      "date_str": "2024-09-19",
+      "daily_revenue": 1602.67
+    },
+    {
+      "date_str": "2024-09-20",
+      "daily_revenue": 1374.95
+    },
+    {
+      "date_str": "2024-09-21",
+      "daily_revenue": 2307.98
+    },
+    {
+      "date_str": "2024-09-22",
+      "daily_revenue": 1909.99
+    },
+    {
+      "date_str": "2024-09-23",
+      "daily_revenue": 1762.66
+    },
+    {
+      "date_str": "2024-09-24",
+      "daily_revenue": 2341.07
+    },
+    {
+      "date_str": "2024-09-25",
+      "daily_revenue": 2844.56
+    },
+    {
+      "date_str": "2024-09-26",
+      "daily_revenue": 2274.9700000000003
+    },
+    {
+      "date_str": "2024-09-27",
+      "daily_revenue": 2825.7
+    },
+    {
+      "date_str": "2024-09-28",
+      "daily_revenue": 1782.73
+    },
+    {
+      "date_str": "2024-09-29",
+      "daily_revenue": 2689.08
+    },
+    {
+      "date_str": "2024-09-30",
+      "daily_revenue": 1769.5900000000001
+    },
+    {
+      "date_str": "2024-10-01",
+      "daily_revenue": 2150.23
+    },
+    {
+      "date_str": "2024-10-02",
+      "daily_revenue": 1028.88
+    },
+    {
+      "date_str": "2024-10-03",
+      "daily_revenue": 1848.1399999999999
+    },
+    {
+      "date_str": "2024-10-04",
+      "daily_revenue": 1882.8899999999999
+    },
+    {
+      "date_str": "2024-10-05",
+      "daily_revenue": 2217.19
+    },
+    {
+      "date_str": "2024-10-06",
+      "daily_revenue": 1401.54
+    },
+    {
+      "date_str": "2024-10-07",
+      "daily_revenue": 1960.82
+    },
+    {
+      "date_str": "2024-10-08",
+      "daily_revenue": 1737.73
+    },
+    {
+      "date_str": "2024-10-09",
+      "daily_revenue": 2109.7400000000002
+    },
+    {
+      "date_str": "2024-10-10",
+      "daily_revenue": 1887.8899999999999
+    },
+    {
+      "date_str": "2024-10-11",
+      "daily_revenue": 1892.16
+    },
+    {
+      "date_str": "2024-10-12",
+      "daily_revenue": 1465.33
+    },
+    {
+      "date_str": "2024-10-13",
+      "daily_revenue": 1970.3400000000001
+    },
+    {
+      "date_str": "2024-10-14",
+      "daily_revenue": 2091.98
+    },
+    {
+      "date_str": "2024-10-15",
+      "daily_revenue": 2814.77
+    },
+    {
+      "date_str": "2024-10-16",
+      "daily_revenue": 1564.26
+    },
+    {
+      "date_str": "2024-10-17",
+      "daily_revenue": 1802.74
+    },
+    {
+      "date_str": "2024-10-18",
+      "daily_revenue": 1249.89
+    },
+    {
+      "date_str": "2024-10-19",
+      "daily_revenue": 2122.21
+    },
+    {
+      "date_str": "2024-10-20",
+      "daily_revenue": 2266.08
+    },
+    {
+      "date_str": "2024-10-21",
+      "daily_revenue": 1803.51
+    },
+    {
+      "date_str": "2024-10-22",
+      "daily_revenue": 1506.06
+    },
+    {
+      "date_str": "2024-10-23",
+      "daily_revenue": 2001.78
+    },
+    {
+      "date_str": "2024-10-24",
+      "daily_revenue": 2056.77
+    },
+    {
+      "date_str": "2024-10-25",
+      "daily_revenue": 1637.21
+    },
+    {
+      "date_str": "2024-10-26",
+      "daily_revenue": 2710.5099999999998
+    },
+    {
+      "date_str": "2024-10-27",
+      "daily_revenue": 828.24
+    },
+    {
+      "date_str": "2024-10-28",
+      "daily_revenue": 1794.52
+    },
+    {
+      "date_str": "2024-10-29",
+      "daily_revenue": 2094.46
+    },
+    {
+      "date_str": "2024-10-30",
+      "daily_revenue": 1801.07
+    },
+    {
+      "date_str": "2024-10-31",
+      "daily_revenue": 1558.53
+    },
+    {
+      "date_str": "2024-11-01",
+      "daily_revenue": 1468.52
+    },
+    {
+      "date_str": "2024-11-02",
+      "daily_revenue": 2978.56
+    },
+    {
+      "date_str": "2024-11-03",
+      "daily_revenue": 2615.68
+    },
+    {
+      "date_str": "2024-11-04",
+      "daily_revenue": 2036.45
+    },
+    {
+      "date_str": "2024-11-05",
+      "daily_revenue": 2775.75
+    },
+    {
+      "date_str": "2024-11-06",
+      "daily_revenue": 2563.17
+    },
+    {
+      "date_str": "2024-11-07",
+      "daily_revenue": 1850.38
+    },
+    {
+      "date_str": "2024-11-08",
+      "daily_revenue": 2127.73
+    },
+    {
+      "date_str": "2024-11-09",
+      "daily_revenue": 2223.35
+    },
+    {
+      "date_str": "2024-11-10",
+      "daily_revenue": 2270.05
+    },
+    {
+      "date_str": "2024-11-11",
+      "daily_revenue": 2747.54
+    },
+    {
+      "date_str": "2024-11-12",
+      "daily_revenue": 2313.3
+    },
+    {
+      "date_str": "2024-11-13",
+      "daily_revenue": 2261.31
+    },
+    {
+      "date_str": "2024-11-14",
+      "daily_revenue": 1376.93
+    },
+    {
+      "date_str": "2024-11-15",
+      "daily_revenue": 3638.9700000000003
+    },
+    {
+      "date_str": "2024-11-16",
+      "daily_revenue": 1695.81
+    },
+    {
+      "date_str": "2024-11-17",
+      "daily_revenue": 2784.07
+    },
+    {
+      "date_str": "2024-11-18",
+      "daily_revenue": 1865.35
+    },
+    {
+      "date_str": "2024-11-19",
+      "daily_revenue": 2385.27
+    },
+    {
+      "date_str": "2024-11-20",
+      "daily_revenue": 1958.85
+    },
+    {
+      "date_str": "2024-11-21",
+      "daily_revenue": 3540.2
+    },
+    {
+      "date_str": "2024-11-22",
+      "daily_revenue": 1562.23
+    },
+    {
+      "date_str": "2024-11-23",
+      "daily_revenue": 1495.53
+    },
+    {
+      "date_str": "2024-11-24",
+      "daily_revenue": 2060.11
+    },
+    {
+      "date_str": "2024-11-25",
+      "daily_revenue": 1349.66
+    },
+    {
+      "date_str": "2024-11-26",
+      "daily_revenue": 1740.6
+    },
+    {
+      "date_str": "2024-11-27",
+      "daily_revenue": 2119.37
+    },
+    {
+      "date_str": "2024-11-28",
+      "daily_revenue": 1548.56
+    },
+    {
+      "date_str": "2024-11-29",
+      "daily_revenue": 2512.93
+    },
+    {
+      "date_str": "2024-11-30",
+      "daily_revenue": 2059.5
+    },
+    {
+      "date_str": "2024-12-01",
+      "daily_revenue": 2000.97
+    },
+    {
+      "date_str": "2024-12-02",
+      "daily_revenue": 2981.63
+    },
+    {
+      "date_str": "2024-12-03",
+      "daily_revenue": 3181.84
+    },
+    {
+      "date_str": "2024-12-04",
+      "daily_revenue": 2518.89
+    },
+    {
+      "date_str": "2024-12-05",
+      "daily_revenue": 1932.46
+    },
+    {
+      "date_str": "2024-12-06",
+      "daily_revenue": 2291.68
+    },
+    {
+      "date_str": "2024-12-07",
+      "daily_revenue": 2519.02
+    },
+    {
+      "date_str": "2024-12-08",
+      "daily_revenue": 2214.54
+    },
+    {
+      "date_str": "2024-12-09",
+      "daily_revenue": 1144.37
+    },
+    {
+      "date_str": "2024-12-10",
+      "daily_revenue": 2648.08
+    },
+    {
+      "date_str": "2024-12-11",
+      "daily_revenue": 1687.22
+    },
+    {
+      "date_str": "2024-12-12",
+      "daily_revenue": 2019.0
+    },
+    {
+      "date_str": "2024-12-13",
+      "daily_revenue": 2293.78
+    },
+    {
+      "date_str": "2024-12-14",
+      "daily_revenue": 3444.45
+    },
+    {
+      "date_str": "2024-12-15",
+      "daily_revenue": 2228.12
+    },
+    {
+      "date_str": "2024-12-16",
+      "daily_revenue": 1756.12
+    },
+    {
+      "date_str": "2024-12-17",
+      "daily_revenue": 1793.99
+    },
+    {
+      "date_str": "2024-12-18",
+      "daily_revenue": 1873.55
+    },
+    {
+      "date_str": "2024-12-19",
+      "daily_revenue": 2424.97
+    },
+    {
+      "date_str": "2024-12-20",
+      "daily_revenue": 2283.66
+    },
+    {
+      "date_str": "2024-12-21",
+      "daily_revenue": 1570.46
+    },
+    {
+      "date_str": "2024-12-22",
+      "daily_revenue": 2326.85
+    },
+    {
+      "date_str": "2024-12-23",
+      "daily_revenue": 2575.46
+    },
+    {
+      "date_str": "2024-12-24",
+      "daily_revenue": 1758.64
+    },
+    {
+      "date_str": "2024-12-25",
+      "daily_revenue": 3449.11
+    },
+    {
+      "date_str": "2024-12-26",
+      "daily_revenue": 2628.05
+    },
+    {
+      "date_str": "2024-12-27",
+      "daily_revenue": 1981.57
+    },
+    {
+      "date_str": "2024-12-28",
+      "daily_revenue": 2649.37
+    },
+    {
+      "date_str": "2024-12-29",
+      "daily_revenue": 2724.77
+    },
+    {
+      "date_str": "2024-12-30",
+      "daily_revenue": 2461.39
+    },
+    {
+      "date_str": "2024-12-31",
+      "daily_revenue": 2186.13
+    },
+    {
+      "date_str": "2025-01-01",
+      "daily_revenue": 2535.39
+    },
+    {
+      "date_str": "2025-01-02",
+      "daily_revenue": 2088.79
+    },
+    {
+      "date_str": "2025-01-03",
+      "daily_revenue": 1742.56
+    },
+    {
+      "date_str": "2025-01-04",
+      "daily_revenue": 1946.59
+    },
+    {
+      "date_str": "2025-01-05",
+      "daily_revenue": 1882.68
+    },
+    {
+      "date_str": "2025-01-06",
+      "daily_revenue": 1909.11
+    },
+    {
+      "date_str": "2025-01-07",
+      "daily_revenue": 2417.06
+    },
+    {
+      "date_str": "2025-01-08",
+      "daily_revenue": 1531.87
+    },
+    {
+      "date_str": "2025-01-09",
+      "daily_revenue": 3381.4700000000003
+    },
+    {
+      "date_str": "2025-01-10",
+      "daily_revenue": 2426.79
+    },
+    {
+      "date_str": "2025-01-11",
+      "daily_revenue": 2068.37
+    },
+    {
+      "date_str": "2025-01-12",
+      "daily_revenue": 1503.91
+    },
+    {
+      "date_str": "2025-01-13",
+      "daily_revenue": 1966.93
+    },
+    {
+      "date_str": "2025-01-14",
+      "daily_revenue": 2784.24
+    },
+    {
+      "date_str": "2025-01-15",
+      "daily_revenue": 2759.72
+    },
+    {
+      "date_str": "2025-01-16",
+      "daily_revenue": 2607.45
+    },
+    {
+      "date_str": "2025-01-17",
+      "daily_revenue": 3175.22
+    },
+    {
+      "date_str": "2025-01-18",
+      "daily_revenue": 2036.26
+    },
+    {
+      "date_str": "2025-01-19",
+      "daily_revenue": 1196.8
+    },
+    {
+      "date_str": "2025-01-20",
+      "daily_revenue": 3480.36
+    },
+    {
+      "date_str": "2025-01-21",
+      "daily_revenue": 1756.65
+    },
+    {
+      "date_str": "2025-01-22",
+      "daily_revenue": 1949.48
+    },
+    {
+      "date_str": "2025-01-23",
+      "daily_revenue": 2082.65
+    },
+    {
+      "date_str": "2025-01-24",
+      "daily_revenue": 2220.4
+    },
+    {
+      "date_str": "2025-01-25",
+      "daily_revenue": 2444.68
+    },
+    {
+      "date_str": "2025-01-26",
+      "daily_revenue": 2245.37
+    },
+    {
+      "date_str": "2025-01-27",
+      "daily_revenue": 1265.32
+    },
+    {
+      "date_str": "2025-01-28",
+      "daily_revenue": 2231.35
+    },
+    {
+      "date_str": "2025-01-29",
+      "daily_revenue": 3338.29
+    },
+    {
+      "date_str": "2025-01-30",
+      "daily_revenue": 2415.99
+    },
+    {
+      "date_str": "2025-01-31",
+      "daily_revenue": 2067.13
+    },
+    {
+      "date_str": "2025-02-01",
+      "daily_revenue": 2290.27
+    },
+    {
+      "date_str": "2025-02-02",
+      "daily_revenue": 1984.84
+    },
+    {
+      "date_str": "2025-02-03",
+      "daily_revenue": 1262.21
+    },
+    {
+      "date_str": "2025-02-04",
+      "daily_revenue": 1468.99
+    },
+    {
+      "date_str": "2025-02-05",
+      "daily_revenue": 2449.33
+    },
+    {
+      "date_str": "2025-02-06",
+      "daily_revenue": 2384.56
+    },
+    {
+      "date_str": "2025-02-07",
+      "daily_revenue": 1376.24
+    },
+    {
+      "date_str": "2025-02-08",
+      "daily_revenue": 2676.51
+    },
+    {
+      "date_str": "2025-02-09",
+      "daily_revenue": 2579.88
+    },
+    {
+      "date_str": "2025-02-10",
+      "daily_revenue": 1576.71
+    },
+    {
+      "date_str": "2025-02-11",
+      "daily_revenue": 1560.55
+    },
+    {
+      "date_str": "2025-02-12",
+      "daily_revenue": 2070.64
+    },
+    {
+      "date_str": "2025-02-13",
+      "daily_revenue": 1508.1
+    },
+    {
+      "date_str": "2025-02-14",
+      "daily_revenue": 1518.68
+    },
+    {
+      "date_str": "2025-02-15",
+      "daily_revenue": 2069.27
+    },
+    {
+      "date_str": "2025-02-16",
+      "daily_revenue": 1434.62
+    },
+    {
+      "date_str": "2025-02-17",
+      "daily_revenue": 1982.46
+    },
+    {
+      "date_str": "2025-02-18",
+      "daily_revenue": 1942.08
+    },
+    {
+      "date_str": "2025-02-19",
+      "daily_revenue": 2080.84
+    },
+    {
+      "date_str": "2025-02-20",
+      "daily_revenue": 1807.12
+    },
+    {
+      "date_str": "2025-02-21",
+      "daily_revenue": 466.02
+    },
+    {
+      "date_str": "2025-02-22",
+      "daily_revenue": 1448.22
+    },
+    {
+      "date_str": "2025-02-23",
+      "daily_revenue": 1730.36
+    },
+    {
+      "date_str": "2025-02-24",
+      "daily_revenue": 1395.17
+    },
+    {
+      "date_str": "2025-02-25",
+      "daily_revenue": 1668.82
+    },
+    {
+      "date_str": "2025-02-26",
+      "daily_revenue": 1987.64
+    },
+    {
+      "date_str": "2025-02-27",
+      "daily_revenue": 1252.8
+    },
+    {
+      "date_str": "2025-02-28",
+      "daily_revenue": 2454.78
+    },
+    {
+      "date_str": "2025-03-01",
+      "daily_revenue": 1567.96
+    },
+    {
+      "date_str": "2025-03-02",
+      "daily_revenue": 1307.02
+    },
+    {
+      "date_str": "2025-03-03",
+      "daily_revenue": 1249.6499999999999
+    },
+    {
+      "date_str": "2025-03-04",
+      "daily_revenue": 1740.15
+    },
+    {
+      "date_str": "2025-03-05",
+      "daily_revenue": 1403.48
+    },
+    {
+      "date_str": "2025-03-06",
+      "daily_revenue": 1561.78
+    },
+    {
+      "date_str": "2025-03-07",
+      "daily_revenue": 1639.6100000000001
+    },
+    {
+      "date_str": "2025-03-08",
+      "daily_revenue": 1724.5
+    },
+    {
+      "date_str": "2025-03-09",
+      "daily_revenue": 1744.83
+    },
+    {
+      "date_str": "2025-03-10",
+      "daily_revenue": 2232.67
+    },
+    {
+      "date_str": "2025-03-11",
+      "daily_revenue": 2044.8899999999999
+    },
+    {
+      "date_str": "2025-03-12",
+      "daily_revenue": 1719.99
+    },
+    {
+      "date_str": "2025-03-13",
+      "daily_revenue": 2062.05
+    },
+    {
+      "date_str": "2025-03-14",
+      "daily_revenue": 1643.63
+    },
+    {
+      "date_str": "2025-03-15",
+      "daily_revenue": 1506.43
+    },
+    {
+      "date_str": "2025-03-16",
+      "daily_revenue": 1861.97
+    },
+    {
+      "date_str": "2025-03-17",
+      "daily_revenue": 1306.74
+    },
+    {
+      "date_str": "2025-03-18",
+      "daily_revenue": 1018.99
+    },
+    {
+      "date_str": "2025-03-19",
+      "daily_revenue": 1873.01
+    },
+    {
+      "date_str": "2025-03-20",
+      "daily_revenue": 2156.05
+    },
+    {
+      "date_str": "2025-03-21",
+      "daily_revenue": 2322.06
+    },
+    {
+      "date_str": "2025-03-22",
+      "daily_revenue": 1108.64
+    },
+    {
+      "date_str": "2025-03-23",
+      "daily_revenue": 1349.1
+    },
+    {
+      "date_str": "2025-03-24",
+      "daily_revenue": 1846.7
+    },
+    {
+      "date_str": "2025-03-25",
+      "daily_revenue": 1312.5
+    },
+    {
+      "date_str": "2025-03-26",
+      "daily_revenue": 819.42
+    },
+    {
+      "date_str": "2025-03-27",
+      "daily_revenue": 2510.8
+    },
+    {
+      "date_str": "2025-03-28",
+      "daily_revenue": 1491.36
+    },
+    {
+      "date_str": "2025-03-29",
+      "daily_revenue": 1216.99
+    },
+    {
+      "date_str": "2025-03-30",
+      "daily_revenue": 1223.92
+    },
+    {
+      "date_str": "2025-03-31",
+      "daily_revenue": 1784.1000000000001
+    },
+    {
+      "date_str": "2025-04-01",
+      "daily_revenue": 968.03
+    },
+    {
+      "date_str": "2025-04-02",
+      "daily_revenue": 2017.8799999999999
+    },
+    {
+      "date_str": "2025-04-03",
+      "daily_revenue": 1060.83
+    },
+    {
+      "date_str": "2025-04-04",
+      "daily_revenue": 1021.94
+    },
+    {
+      "date_str": "2025-04-05",
+      "daily_revenue": 1619.51
+    },
+    {
+      "date_str": "2025-04-06",
+      "daily_revenue": 1362.41
+    },
+    {
+      "date_str": "2025-04-07",
+      "daily_revenue": 2111.38
+    },
+    {
+      "date_str": "2025-04-08",
+      "daily_revenue": 1717.01
+    },
+    {
+      "date_str": "2025-04-09",
+      "daily_revenue": 1427.99
+    },
+    {
+      "date_str": "2025-04-10",
+      "daily_revenue": 1384.23
+    },
+    {
+      "date_str": "2025-04-11",
+      "daily_revenue": 1401.33
+    },
+    {
+      "date_str": "2025-04-12",
+      "daily_revenue": 1263.5
+    },
+    {
+      "date_str": "2025-04-13",
+      "daily_revenue": 2201.63
+    },
+    {
+      "date_str": "2025-04-14",
+      "daily_revenue": 1150.43
+    },
+    {
+      "date_str": "2025-04-15",
+      "daily_revenue": 782.08
+    },
+    {
+      "date_str": "2025-04-16",
+      "daily_revenue": 942.29
+    },
+    {
+      "date_str": "2025-04-17",
+      "daily_revenue": 2176.8
+    },
+    {
+      "date_str": "2025-04-18",
+      "daily_revenue": 1201.61
+    },
+    {
+      "date_str": "2025-04-19",
+      "daily_revenue": 766.22
+    },
+    {
+      "date_str": "2025-04-20",
+      "daily_revenue": 1427.89
+    },
+    {
+      "date_str": "2025-04-21",
+      "daily_revenue": 1252.3700000000001
+    },
+    {
+      "date_str": "2025-04-22",
+      "daily_revenue": 1197.94
+    },
+    {
+      "date_str": "2025-04-23",
+      "daily_revenue": 1340.22
+    },
+    {
+      "date_str": "2025-04-24",
+      "daily_revenue": 1501.0
+    },
+    {
+      "date_str": "2025-04-25",
+      "daily_revenue": 1087.52
+    },
+    {
+      "date_str": "2025-04-26",
+      "daily_revenue": 1664.78
+    },
+    {
+      "date_str": "2025-04-27",
+      "daily_revenue": 671.05
+    },
+    {
+      "date_str": "2025-04-28",
+      "daily_revenue": 1166.53
+    },
+    {
+      "date_str": "2025-04-29",
+      "daily_revenue": 1209.33
+    },
+    {
+      "date_str": "2025-04-30",
+      "daily_revenue": 1370.89
+    },
+    {
+      "date_str": "2025-05-01",
+      "daily_revenue": 932.73
+    },
+    {
+      "date_str": "2025-05-02",
+      "daily_revenue": 882.26
+    },
+    {
+      "date_str": "2025-05-03",
+      "daily_revenue": 910.74
+    },
+    {
+      "date_str": "2025-05-04",
+      "daily_revenue": 562.84
+    },
+    {
+      "date_str": "2025-05-05",
+      "daily_revenue": 1311.13
+    },
+    {
+      "date_str": "2025-05-06",
+      "daily_revenue": 1417.72
+    },
+    {
+      "date_str": "2025-05-07",
+      "daily_revenue": 1571.38
+    },
+    {
+      "date_str": "2025-05-08",
+      "daily_revenue": 562.64
+    },
+    {
+      "date_str": "2025-05-09",
+      "daily_revenue": 959.75
+    },
+    {
+      "date_str": "2025-05-10",
+      "daily_revenue": 693.21
+    },
+    {
+      "date_str": "2025-05-11",
+      "daily_revenue": 965.3299999999999
+    },
+    {
+      "date_str": "2025-05-12",
+      "daily_revenue": 1186.12
+    },
+    {
+      "date_str": "2025-05-13",
+      "daily_revenue": 1361.92
+    },
+    {
+      "date_str": "2025-05-14",
+      "daily_revenue": 882.97
+    },
+    {
+      "date_str": "2025-05-15",
+      "daily_revenue": 1365.0
+    },
+    {
+      "date_str": "2025-05-16",
+      "daily_revenue": 632.42
+    },
+    {
+      "date_str": "2025-05-17",
+      "daily_revenue": 634.02
+    },
+    {
+      "date_str": "2025-05-18",
+      "daily_revenue": 1074.13
+    },
+    {
+      "date_str": "2025-05-19",
+      "daily_revenue": 1042.95
+    },
+    {
+      "date_str": "2025-05-20",
+      "daily_revenue": 985.8199999999999
+    },
+    {
+      "date_str": "2025-05-21",
+      "daily_revenue": 825.73
+    },
+    {
+      "date_str": "2025-05-22",
+      "daily_revenue": 1046.0900000000001
+    },
+    {
+      "date_str": "2025-05-23",
+      "daily_revenue": 851.3299999999999
+    },
+    {
+      "date_str": "2025-05-24",
+      "daily_revenue": 860.38
+    },
+    {
+      "date_str": "2025-05-25",
+      "daily_revenue": 351.54
+    },
+    {
+      "date_str": "2025-05-26",
+      "daily_revenue": 1295.71
+    },
+    {
+      "date_str": "2025-05-27",
+      "daily_revenue": 2135.04
+    },
+    {
+      "date_str": "2025-05-28",
+      "daily_revenue": 1355.43
+    },
+    {
+      "date_str": "2025-05-29",
+      "daily_revenue": 411.7
+    },
+    {
+      "date_str": "2025-05-30",
+      "daily_revenue": 652.1800000000001
+    },
+    {
+      "date_str": "2025-05-31",
+      "daily_revenue": 690.0699999999999
+    },
+    {
+      "date_str": "2025-06-01",
+      "daily_revenue": 383.94
+    },
+    {
+      "date_str": "2025-06-02",
+      "daily_revenue": 546.98
+    },
+    {
+      "date_str": "2025-06-03",
+      "daily_revenue": 620.54
+    },
+    {
+      "date_str": "2025-06-04",
+      "daily_revenue": 936.03
+    },
+    {
+      "date_str": "2025-06-05",
+      "daily_revenue": 912.33
+    },
+    {
+      "date_str": "2025-06-06",
+      "daily_revenue": 883.39
+    },
+    {
+      "date_str": "2025-06-07",
+      "daily_revenue": 902.48
+    },
+    {
+      "date_str": "2025-06-08",
+      "daily_revenue": 1105.58
+    },
+    {
+      "date_str": "2025-06-09",
+      "daily_revenue": 905.94
+    },
+    {
+      "date_str": "2025-06-10",
+      "daily_revenue": 533.21
+    },
+    {
+      "date_str": "2025-06-11",
+      "daily_revenue": 703.97
+    },
+    {
+      "date_str": "2025-06-12",
+      "daily_revenue": 228.53
+    },
+    {
+      "date_str": "2025-06-13",
+      "daily_revenue": 716.24
+    },
+    {
+      "date_str": "2025-06-14",
+      "daily_revenue": 513.5
+    },
+    {
+      "date_str": "2025-06-15",
+      "daily_revenue": 797.73
+    },
+    {
+      "date_str": "2025-06-16",
+      "daily_revenue": 388.04
+    },
+    {
+      "date_str": "2025-06-17",
+      "daily_revenue": 157.99
+    },
+    {
+      "date_str": "2025-06-18",
+      "daily_revenue": 336.33
+    },
+    {
+      "date_str": "2025-06-19",
+      "daily_revenue": 893.6700000000001
+    },
+    {
+      "date_str": "2025-06-20",
+      "daily_revenue": 339.73
+    },
+    {
+      "date_str": "2025-06-21",
+      "daily_revenue": 867.96
+    },
+    {
+      "date_str": "2025-06-22",
+      "daily_revenue": 474.82
+    },
+    {
+      "date_str": "2025-06-23",
+      "daily_revenue": 909.58
+    },
+    {
+      "date_str": "2025-06-24",
+      "daily_revenue": 684.8299999999999
+    },
+    {
+      "date_str": "2025-06-25",
+      "daily_revenue": 586.74
+    },
+    {
+      "date_str": "2025-06-26",
+      "daily_revenue": 647.05
+    },
+    {
+      "date_str": "2025-06-27",
+      "daily_revenue": 362.77
+    },
+    {
+      "date_str": "2025-06-28",
+      "daily_revenue": 657.9
+    },
+    {
+      "date_str": "2025-06-29",
+      "daily_revenue": 625.5
+    },
+    {
+      "date_str": "2025-06-30",
+      "daily_revenue": 931.75
+    },
+    {
+      "date_str": "2025-07-01",
+      "daily_revenue": 906.53
+    },
+    {
+      "date_str": "2025-07-02",
+      "daily_revenue": 373.09
+    },
+    {
+      "date_str": "2025-07-03",
+      "daily_revenue": 227.95
+    },
+    {
+      "date_str": "2025-07-04",
+      "daily_revenue": 414.5
+    },
+    {
+      "date_str": "2025-07-05",
+      "daily_revenue": 473.25
+    },
+    {
+      "date_str": "2025-07-06",
+      "daily_revenue": 334.24
+    },
+    {
+      "date_str": "2025-07-07",
+      "daily_revenue": 495.09
+    },
+    {
+      "date_str": "2025-07-08",
+      "daily_revenue": 315.74
+    },
+    {
+      "date_str": "2025-07-09",
+      "daily_revenue": 338.5
+    },
+    {
+      "date_str": "2025-07-10",
+      "daily_revenue": 1287.92
+    },
+    {
+      "date_str": "2025-07-11",
+      "daily_revenue": 623.6
+    },
+    {
+      "date_str": "2025-07-12",
+      "daily_revenue": 191.99
+    },
+    {
+      "date_str": "2025-07-13",
+      "daily_revenue": 140.0
+    },
+    {
+      "date_str": "2025-07-14",
+      "daily_revenue": 166.0
+    },
+    {
+      "date_str": "2025-07-15",
+      "daily_revenue": 521.6
+    },
+    {
+      "date_str": "2025-07-16",
+      "daily_revenue": 42.5
+    },
+    {
+      "date_str": "2025-07-17",
+      "daily_revenue": 435.73
+    },
+    {
+      "date_str": "2025-07-18",
+      "daily_revenue": 393.0
+    },
+    {
+      "date_str": "2025-07-19",
+      "daily_revenue": 511.2
+    },
+    {
+      "date_str": "2025-07-20",
+      "daily_revenue": 369.89
+    },
+    {
+      "date_str": "2025-07-21",
+      "daily_revenue": 252.98000000000002
+    },
+    {
+      "date_str": "2025-07-22",
+      "daily_revenue": 194.8
+    },
+    {
+      "date_str": "2025-07-23",
+      "daily_revenue": 482.4
+    },
+    {
+      "date_str": "2025-07-24",
+      "daily_revenue": 193.1
+    },
+    {
+      "date_str": "2025-07-25",
+      "daily_revenue": 623.65
+    },
+    {
+      "date_str": "2025-07-26",
+      "daily_revenue": 395.39
+    },
+    {
+      "date_str": "2025-07-27",
+      "daily_revenue": 216.0
+    },
+    {
+      "date_str": "2025-07-28",
+      "daily_revenue": 279.6
+    },
+    {
+      "date_str": "2025-07-29",
+      "daily_revenue": 428.65
+    },
+    {
+      "date_str": "2025-07-30",
+      "daily_revenue": 171.25
+    },
+    {
+      "date_str": "2025-07-31",
+      "daily_revenue": 267.5
+    },
+    {
+      "date_str": "2025-08-01",
+      "daily_revenue": 561.88
+    },
+    {
+      "date_str": "2025-08-02",
+      "daily_revenue": 424.71000000000004
+    },
+    {
+      "date_str": "2025-08-03",
+      "daily_revenue": 232.65
+    },
+    {
+      "date_str": "2025-08-04",
+      "daily_revenue": 455.13
+    },
+    {
+      "date_str": "2025-08-05",
+      "daily_revenue": 284.48
+    },
+    {
+      "date_str": "2025-08-06",
+      "daily_revenue": 211.75
+    },
+    {
+      "date_str": "2025-08-07",
+      "daily_revenue": 148.03
+    },
+    {
+      "date_str": "2025-08-08",
+      "daily_revenue": 320.47
+    },
+    {
+      "date_str": "2025-08-09",
+      "daily_revenue": 299.7
+    },
+    {
+      "date_str": "2025-08-10",
+      "daily_revenue": 292.47
+    },
+    {
+      "date_str": "2025-08-11",
+      "daily_revenue": 250.99
+    },
+    {
+      "date_str": "2025-08-12",
+      "daily_revenue": 274.42
+    },
+    {
+      "date_str": "2025-08-13",
+      "daily_revenue": 452.5
+    },
+    {
+      "date_str": "2025-08-14",
+      "daily_revenue": 195.5
+    },
+    {
+      "date_str": "2025-08-15",
+      "daily_revenue": 259.78
+    },
+    {
+      "date_str": "2025-08-16",
+      "daily_revenue": 349.88
+    },
+    {
+      "date_str": "2025-08-17",
+      "daily_revenue": 283.74
+    },
+    {
+      "date_str": "2025-08-18",
+      "daily_revenue": 128.0
+    },
+    {
+      "date_str": "2025-08-19",
+      "daily_revenue": 153.8
+    },
+    {
+      "date_str": "2025-08-20",
+      "daily_revenue": 111.4
+    },
+    {
+      "date_str": "2025-08-21",
+      "daily_revenue": 172.5
+    },
+    {
+      "date_str": "2025-08-22",
+      "daily_revenue": 78.25
+    },
+    {
+      "date_str": "2025-08-23",
+      "daily_revenue": 49.0
+    },
+    {
+      "date_str": "2025-08-24",
+      "daily_revenue": 146.0
+    },
+    {
+      "date_str": "2025-08-25",
+      "daily_revenue": 41.99
+    },
+    {
+      "date_str": "2025-08-26",
+      "daily_revenue": 198.25
+    },
+    {
+      "date_str": "2025-08-27",
+      "daily_revenue": 320.97
+    },
+    {
+      "date_str": "2025-08-28",
+      "daily_revenue": 49.5
+    },
+    {
+      "date_str": "2025-08-29",
+      "daily_revenue": 76.5
+    },
+    {
+      "date_str": "2025-08-30",
+      "daily_revenue": 64.5
+    },
+    {
+      "date_str": "2025-08-31",
+      "daily_revenue": 70.99
+    },
+    {
+      "date_str": "2025-09-01",
+      "daily_revenue": 79.99
+    },
+    {
+      "date_str": "2025-09-02",
+      "daily_revenue": 521.35
+    },
+    {
+      "date_str": "2025-09-03",
+      "daily_revenue": 243.76
+    },
+    {
+      "date_str": "2025-09-04",
+      "daily_revenue": 368.53999999999996
+    },
+    {
+      "date_str": "2025-09-06",
+      "daily_revenue": 49.25
+    },
+    {
+      "date_str": "2025-09-07",
+      "daily_revenue": 184.0
+    },
+    {
+      "date_str": "2025-09-09",
+      "daily_revenue": 102.24
+    },
+    {
+      "date_str": "2025-09-10",
+      "daily_revenue": 326.6
+    },
+    {
+      "date_str": "2025-09-11",
+      "daily_revenue": 15.5
+    },
+    {
+      "date_str": "2025-09-12",
+      "daily_revenue": 155.09
+    },
+    {
+      "date_str": "2025-09-13",
+      "daily_revenue": 308.99
+    },
+    {
+      "date_str": "2025-09-15",
+      "daily_revenue": 34.0
+    },
+    {
+      "date_str": "2025-09-16",
+      "daily_revenue": 293.72
+    },
+    {
+      "date_str": "2025-09-18",
+      "daily_revenue": 66.5
+    },
+    {
+      "date_str": "2025-09-19",
+      "daily_revenue": 58.25
+    },
+    {
+      "date_str": "2025-09-22",
+      "daily_revenue": 66.0
+    },
+    {
+      "date_str": "2025-09-23",
+      "daily_revenue": 33.75
+    },
+    {
+      "date_str": "2025-09-24",
+      "daily_revenue": 97.25
+    },
+    {
+      "date_str": "2025-09-25",
+      "daily_revenue": 105.0
+    },
+    {
+      "date_str": "2025-09-26",
+      "daily_revenue": 85.99
+    },
+    {
+      "date_str": "2025-09-28",
+      "daily_revenue": 33.75
+    },
+    {
+      "date_str": "2025-09-29",
+      "daily_revenue": 37.25
+    },
+    {
+      "date_str": "2025-09-30",
+      "daily_revenue": 58.0
+    },
+    {
+      "date_str": "2025-10-01",
+      "daily_revenue": 53.5
+    },
+    {
+      "date_str": "2025-10-03",
+      "daily_revenue": 287.75
+    },
+    {
+      "date_str": "2025-10-04",
+      "daily_revenue": 117.52
+    },
+    {
+      "date_str": "2025-10-05",
+      "daily_revenue": 73.0
+    },
+    {
+      "date_str": "2025-10-06",
+      "daily_revenue": 105.25
+    },
+    {
+      "date_str": "2025-10-08",
+      "daily_revenue": 44.5
+    },
+    {
+      "date_str": "2025-10-12",
+      "daily_revenue": 72.0
+    },
+    {
+      "date_str": "2025-10-13",
+      "daily_revenue": 40.25
+    },
+    {
+      "date_str": "2025-10-14",
+      "daily_revenue": 583.25
+    },
+    {
+      "date_str": "2025-10-15",
+      "daily_revenue": 177.25
+    },
+    {
+      "date_str": "2025-10-17",
+      "daily_revenue": 84.99000000000001
+    },
+    {
+      "date_str": "2025-10-20",
+      "daily_revenue": 235.2
+    },
+    {
+      "date_str": "2025-10-22",
+      "daily_revenue": 18.5
+    },
+    {
+      "date_str": "2025-10-23",
+      "daily_revenue": 22.0
+    },
+    {
+      "date_str": "2025-10-28",
+      "daily_revenue": 65.99
+    },
+    {
+      "date_str": "2025-10-29",
+      "daily_revenue": 179.98
+    },
+    {
+      "date_str": "2025-11-02",
+      "daily_revenue": 136.5
+    },
+    {
+      "date_str": "2025-11-03",
+      "daily_revenue": 82.9
+    },
+    {
+      "date_str": "2025-11-04",
+      "daily_revenue": 91.5
+    },
+    {
+      "date_str": "2025-11-05",
+      "daily_revenue": 29.09
+    },
+    {
+      "date_str": "2025-11-07",
+      "daily_revenue": 49.0
+    },
+    {
+      "date_str": "2025-12-01",
+      "daily_revenue": 63.0
+    },
+    {
+      "date_str": "2025-12-03",
+      "daily_revenue": 24.25
+    }
+  ]
+}

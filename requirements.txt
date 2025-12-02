@@ -1,0 +1,7 @@
+pandas
+python-dateutil
+pyyaml
+matplotlib
+pyarrow
+fastparquet
+streamlit
